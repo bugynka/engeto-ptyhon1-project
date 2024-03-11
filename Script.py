@@ -1,7 +1,7 @@
 """
 projekt_1.py: první projekt do Engeto Online Python Akademie
 
-author: Kateřinq Bálint
+author: Kateřina Bálint
 email: k.svobodova.8@seznam.cz
 discord: katerinabalint_41161
 """
